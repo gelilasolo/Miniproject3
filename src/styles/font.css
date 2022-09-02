@@ -1,0 +1,6 @@
+
+ @font-face { font-style : bold; src: url("assets/fonts/VazirmatnBlack.ttf"); font-family : "Vazirmatn"; font-weight : 900;  }
+ @font-face { font-style : normal; src: url("assets/fonts/VazirmatnRegular.ttf"); font-family : "Vazirmatn"; font-weight : 400;  }
+ @font-face { font-style : bold; src: url("assets/fonts/VazirmatnThin.ttf"); font-family : "Vazirmatn"; font-weight : 100;  }
+ @font-face { font-style : bold; src: url("assets/fonts/VazirmatnLight.ttf"); font-family : "Vazirmatn"; font-weight : 300;  }
+ @font-face { font-style : bold; src: url("assets/fonts/VazirmatnBold.ttf"); font-family : "Vazirmatn"; font-weight : 700;  }
